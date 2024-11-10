@@ -1,0 +1,13 @@
+.main_content {
+  width: 900px;
+  height: 100vh;
+  /* background-color: orange; */
+  margin: 0 auto;
+  padding: 50px;
+}
+
+.desc {
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 500;
+}
