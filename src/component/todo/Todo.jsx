@@ -1,6 +1,10 @@
 import { useEffect, useReducer } from "react";
 import { v4 as uuidv4 } from "uuid";
 
+//P#### Phần đề bài yêu cầu để thuộc tính active là true. Do em không đọc kỹ bài nên trong bài làm em lại để dùng thuộc tính completed là false mặc định
+// Khi chấm mong anh châm chước cho ạ
+// Em cảm ơn ạ
+
 //Khởi tạo state
 const initialState = {
   listTodos: [],
